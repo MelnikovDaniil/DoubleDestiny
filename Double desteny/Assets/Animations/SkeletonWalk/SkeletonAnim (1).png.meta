@@ -1,0 +1,1267 @@
+fileFormatVersion: 2
+guid: b30bee30e96187245baad31a706c1bc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SkeletonAnim (1)_0
+  - first:
+      213: 21300002
+    second: SkeletonAnim (1)_1
+  - first:
+      213: 21300004
+    second: SkeletonAnim (1)_2
+  - first:
+      213: 21300006
+    second: SkeletonAnim (1)_3
+  - first:
+      213: 21300008
+    second: SkeletonAnim (1)_4
+  - first:
+      213: 21300010
+    second: SkeletonAnim (1)_5
+  - first:
+      213: 21300012
+    second: SkeletonAnim (1)_6
+  - first:
+      213: 21300014
+    second: SkeletonAnim (1)_7
+  - first:
+      213: 21300016
+    second: SkeletonAnim (1)_8
+  - first:
+      213: 21300018
+    second: SkeletonAnim (1)_9
+  - first:
+      213: 21300020
+    second: SkeletonAnim (1)_10
+  - first:
+      213: 21300022
+    second: SkeletonAnim (1)_11
+  - first:
+      213: 21300024
+    second: SkeletonAnim (1)_12
+  - first:
+      213: 21300026
+    second: SkeletonAnim (1)_13
+  - first:
+      213: 21300028
+    second: SkeletonAnim (1)_14
+  - first:
+      213: 21300030
+    second: SkeletonAnim (1)_15
+  - first:
+      213: 21300032
+    second: SkeletonAnim (1)_16
+  - first:
+      213: 21300034
+    second: SkeletonAnim (1)_17
+  - first:
+      213: 21300036
+    second: SkeletonAnim (1)_18
+  - first:
+      213: 21300038
+    second: SkeletonAnim (1)_19
+  - first:
+      213: 21300040
+    second: SkeletonAnim (1)_20
+  - first:
+      213: 21300042
+    second: SkeletonAnim (1)_21
+  - first:
+      213: 21300044
+    second: SkeletonAnim (1)_22
+  - first:
+      213: 21300046
+    second: SkeletonAnim (1)_23
+  - first:
+      213: 21300048
+    second: SkeletonAnim (1)_24
+  - first:
+      213: 21300050
+    second: SkeletonAnim (1)_25
+  - first:
+      213: 21300052
+    second: SkeletonAnim (1)_26
+  - first:
+      213: 21300054
+    second: SkeletonAnim (1)_27
+  - first:
+      213: 21300056
+    second: SkeletonAnim (1)_28
+  - first:
+      213: 21300058
+    second: SkeletonAnim (1)_29
+  - first:
+      213: 21300060
+    second: SkeletonAnim (1)_30
+  - first:
+      213: 21300062
+    second: SkeletonAnim (1)_31
+  - first:
+      213: 21300064
+    second: SkeletonAnim (1)_32
+  - first:
+      213: 21300066
+    second: SkeletonAnim (1)_33
+  - first:
+      213: 21300068
+    second: SkeletonAnim (1)_34
+  - first:
+      213: 21300070
+    second: SkeletonAnim (1)_35
+  - first:
+      213: 21300072
+    second: SkeletonAnim (1)_36
+  - first:
+      213: 21300074
+    second: SkeletonAnim (1)_37
+  - first:
+      213: 21300076
+    second: SkeletonAnim (1)_38
+  - first:
+      213: 21300078
+    second: SkeletonAnim (1)_39
+  - first:
+      213: 21300080
+    second: SkeletonAnim (1)_40
+  - first:
+      213: 21300082
+    second: SkeletonAnim (1)_41
+  - first:
+      213: 21300084
+    second: SkeletonAnim (1)_42
+  - first:
+      213: 21300086
+    second: SkeletonAnim (1)_43
+  - first:
+      213: 21300088
+    second: SkeletonAnim (1)_44
+  - first:
+      213: 21300090
+    second: SkeletonAnim (1)_45
+  - first:
+      213: 21300092
+    second: SkeletonAnim (1)_46
+  - first:
+      213: 21300094
+    second: SkeletonAnim (1)_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41021941c13d584a9805de0a15e835c
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_1
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fa8ce5852a7124b9312337957b683b
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4fc8b337b2b9d408628cb0b2246848
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dbaa13de8d03b488d287c730861da7
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_4
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6faaae85dade747b14fbb445c4190e
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_5
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f977bed31199546ad470bb1423089b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_6
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5c39db1e995b148a728deab0a5c525
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_7
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28405c11e9c504c4c9b9623441ba2b3e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_8
+      rect:
+        serializedVersion: 2
+        x: 4824
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5255eb12b27f5244919d93158ee491a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_9
+      rect:
+        serializedVersion: 2
+        x: 5427
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cb07c7fd87f3b4eada4338c32a59c6
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_10
+      rect:
+        serializedVersion: 2
+        x: 6030
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12364347ae227841840a95a02ea7c9d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_11
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44509d37e31ae1e4b863c8bc9ad94506
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_12
+      rect:
+        serializedVersion: 2
+        x: 7236
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b997067a17bfeeb40b28646274334808
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_13
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf033de8c08613c47bc25f9c10656a65
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_14
+      rect:
+        serializedVersion: 2
+        x: 8442
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6f24405e1409d4fba1a2db8fcf11a4
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_15
+      rect:
+        serializedVersion: 2
+        x: 9045
+        y: 983
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59e3155a69cb5749a03d0a895502781
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b6932dce8ee7b409e36846cb735a2a
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_17
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d17bc3c602126c4490a1a362df48e85
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc78fc426dd88d94eb7d6189415e47b1
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_19
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c70044849cdd44ea9c50a9b6957006
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_20
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b592dcb94dbbb114d9f4f3e7d829f927
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_21
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16b4795b019dd045a048f28f6322c9a
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_22
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2f1d260a8de34468862bb1e8125801
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_23
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ce2c699c1e5604bb959b34a560e7ba
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_24
+      rect:
+        serializedVersion: 2
+        x: 4824
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a888ecba371f6e8418b1bdff3103d049
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_25
+      rect:
+        serializedVersion: 2
+        x: 5427
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dab49b1619cae94e8a6cc69e259da8b
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_26
+      rect:
+        serializedVersion: 2
+        x: 6030
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842f1939598a0d84c8b98805e28509d5
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_27
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4304a2253fffff24cabaf3c1755a787c
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_28
+      rect:
+        serializedVersion: 2
+        x: 7236
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2bc994967824b4a85b0dcc626ce016
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_29
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb867d998f740f44950c09cb8709008
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_30
+      rect:
+        serializedVersion: 2
+        x: 8442
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd39e1e31342a8f4da25295a21f3a01b
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_31
+      rect:
+        serializedVersion: 2
+        x: 9045
+        y: 505
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0a9c5905bd2b3409de3be8a646ace8
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7c69b19ee2b1544b1db8d6e68244ee
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_33
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e859d7b1191342240961a3cb57aad34f
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_34
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ae640f15b9da44f9ee2d02985f8052
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416fb4c0164b1974b8fd6f46f6cea961
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_36
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7620a94a646fa448b9c1fa307ed8ba
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_37
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06f8cffe4791e946b8827d36c0c3c0c
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_38
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8b41bbd961569408e4ced31ffd66fd
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_39
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff20ae304c2ac14f847217c1444a79c
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_40
+      rect:
+        serializedVersion: 2
+        x: 4824
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10a4a06bfd97df4bbc5ada073ecb848
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_41
+      rect:
+        serializedVersion: 2
+        x: 5427
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ec489818a5b7c41a1ca886fa0d27ca
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_42
+      rect:
+        serializedVersion: 2
+        x: 6030
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48fd24a0da68c34e9773dabbb11aab9
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_43
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434a96654bc92d44a91df1c123c1ce0a
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_44
+      rect:
+        serializedVersion: 2
+        x: 7236
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc2a7a24e2765e46b5828b22b79e0cd
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_45
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa89c27ea96f7d42a86fb26c984dfcc
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_46
+      rect:
+        serializedVersion: 2
+        x: 8442
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adf5d2380603d5428e45a51f0049e90
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAnim (1)_47
+      rect:
+        serializedVersion: 2
+        x: 9045
+        y: 27
+        width: 603
+        height: 478
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b02ee0cbac26544ab6c33f7419bffa
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 248083c42d2055e488cf8069908646e7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

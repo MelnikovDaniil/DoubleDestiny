@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 82fadf703d2e8e94497da7bc1f233098
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TreantWalkTest (1)_0
+  - first:
+      213: 21300002
+    second: TreantWalkTest (1)_1
+  - first:
+      213: 21300004
+    second: TreantWalkTest (1)_2
+  - first:
+      213: 21300006
+    second: TreantWalkTest (1)_3
+  - first:
+      213: 21300008
+    second: TreantWalkTest (1)_4
+  - first:
+      213: 21300010
+    second: TreantWalkTest (1)_5
+  - first:
+      213: 21300012
+    second: TreantWalkTest (1)_6
+  - first:
+      213: 21300014
+    second: TreantWalkTest (1)_7
+  - first:
+      213: 21300016
+    second: TreantWalkTest (1)_8
+  - first:
+      213: 21300018
+    second: TreantWalkTest (1)_9
+  - first:
+      213: 21300020
+    second: TreantWalkTest (1)_10
+  - first:
+      213: 21300022
+    second: TreantWalkTest (1)_11
+  - first:
+      213: 21300024
+    second: TreantWalkTest (1)_12
+  - first:
+      213: 21300026
+    second: TreantWalkTest (1)_13
+  - first:
+      213: 21300028
+    second: TreantWalkTest (1)_14
+  - first:
+      213: 21300030
+    second: TreantWalkTest (1)_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1027
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e020f3ea308a2f4da30c054476b95a4
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_1
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1027
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bed3217cc15af42a76ca04a4b9eec0
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1027
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb162967480f044ea1f2053aa0d3b59
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_3
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 1027
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6ad510a2a5f3e4d8cfb3504f8a57ad
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_4
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 1027
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c907ddba0c1474f904433ee391c0fd
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_5
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 1027
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0728a3b32214b7941aec49ea9b98da7d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_6
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 1027
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cae5a66000855a4185344615d408f9e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_7
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 1027
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60616bba6f186074b85e1eecacf34c04
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c025f64dd5702a4489468b23b0fb2e2
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_9
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4a194e46887ed438c5bd900efe2b6b
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6542673d9d07247a3300752f9fdafa
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_11
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edcf2bb03ed7c94baa2b4b7062224fb
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_12
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 0
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d320a13835ac4540b904a9ef9375120
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_13
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 0
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2838f363a7c09df42a40872d6a094c32
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_14
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 0
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763b27d8f32405148a9bce48137c22cd
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWalkTest (1)_15
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 0
+        width: 980
+        height: 1027
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fafd37096cc16a4b85dc5a94e204026
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a75766bf95a25a64690edb937dcc31b5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

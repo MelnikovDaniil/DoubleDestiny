@@ -1,0 +1,1255 @@
+fileFormatVersion: 2
+guid: 92ae66df0a6f0e245bcb9c733beae99f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BakaAn_0
+  - first:
+      213: 21300002
+    second: BakaAn_1
+  - first:
+      213: 21300004
+    second: BakaAn_2
+  - first:
+      213: 21300006
+    second: BakaAn_3
+  - first:
+      213: 21300008
+    second: BakaAn_4
+  - first:
+      213: 21300010
+    second: BakaAn_5
+  - first:
+      213: 21300012
+    second: BakaAn_6
+  - first:
+      213: 21300014
+    second: BakaAn_7
+  - first:
+      213: 21300016
+    second: BakaAn_8
+  - first:
+      213: 21300018
+    second: BakaAn_9
+  - first:
+      213: 21300020
+    second: BakaAn_10
+  - first:
+      213: 21300022
+    second: BakaAn_11
+  - first:
+      213: 21300024
+    second: BakaAn_12
+  - first:
+      213: 21300026
+    second: BakaAn_13
+  - first:
+      213: 21300028
+    second: BakaAn_14
+  - first:
+      213: 21300030
+    second: BakaAn_15
+  - first:
+      213: 21300032
+    second: BakaAn_16
+  - first:
+      213: 21300034
+    second: BakaAn_17
+  - first:
+      213: 21300036
+    second: BakaAn_18
+  - first:
+      213: 21300038
+    second: BakaAn_19
+  - first:
+      213: 21300040
+    second: BakaAn_20
+  - first:
+      213: 21300042
+    second: BakaAn_21
+  - first:
+      213: 21300044
+    second: BakaAn_22
+  - first:
+      213: 21300046
+    second: BakaAn_23
+  - first:
+      213: 21300048
+    second: BakaAn_24
+  - first:
+      213: 21300050
+    second: BakaAn_25
+  - first:
+      213: 21300052
+    second: BakaAn_26
+  - first:
+      213: 21300054
+    second: BakaAn_27
+  - first:
+      213: 21300056
+    second: BakaAn_28
+  - first:
+      213: 21300058
+    second: BakaAn_29
+  - first:
+      213: 21300060
+    second: BakaAn_30
+  - first:
+      213: 21300062
+    second: BakaAn_31
+  - first:
+      213: 21300064
+    second: BakaAn_32
+  - first:
+      213: 21300066
+    second: BakaAn_33
+  - first:
+      213: 21300068
+    second: BakaAn_34
+  - first:
+      213: 21300070
+    second: BakaAn_35
+  - first:
+      213: 21300072
+    second: BakaAn_36
+  - first:
+      213: 21300074
+    second: BakaAn_37
+  - first:
+      213: 21300076
+    second: BakaAn_38
+  - first:
+      213: 21300078
+    second: BakaAn_39
+  - first:
+      213: 21300080
+    second: BakaAn_40
+  - first:
+      213: 21300082
+    second: BakaAn_41
+  - first:
+      213: 21300084
+    second: BakaAn_42
+  - first:
+      213: 21300086
+    second: BakaAn_43
+  - first:
+      213: 21300088
+    second: BakaAn_44
+  - first:
+      213: 21300090
+    second: BakaAn_45
+  - first:
+      213: 21300092
+    second: BakaAn_46
+  - first:
+      213: 21300094
+    second: BakaAn_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 140
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BakaAn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8249469b2a17bf242b90964fb0afd958
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_1
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a785bd74632cc4b8f7855ea3957d57
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_2
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2b8de0488a2cf4c9c9d2571e2f4f5a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_3
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2970f051d7dff647887afcd9d3e2691
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_4
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3710a16c668a24a90fe977c4ae21f0
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_5
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd244c512ae512f45b40b2280d809466
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_6
+      rect:
+        serializedVersion: 2
+        x: 4518
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c5ffcacea350f4288f6a1860bab54c
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_7
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4d77105ee376446a262f3e2f49b5ea
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_8
+      rect:
+        serializedVersion: 2
+        x: 6024
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f798b51079dfb1b4ebedbe4045a6c9ed
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_9
+      rect:
+        serializedVersion: 2
+        x: 6777
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ad602be2aee484a8c1f23c67d95d98
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_10
+      rect:
+        serializedVersion: 2
+        x: 7530
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04028a97791c0fc44b0f916fc73c5604
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_11
+      rect:
+        serializedVersion: 2
+        x: 8283
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4fe6b8fb5c0b74e993230cff70d2c5
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_12
+      rect:
+        serializedVersion: 2
+        x: 9036
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe55f88c9109f94ab026947ef5a1c49
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_13
+      rect:
+        serializedVersion: 2
+        x: 9789
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f06ec5a6925c4086585e2d0e6c39c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_14
+      rect:
+        serializedVersion: 2
+        x: 10542
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1375d01d66a3248b5acdf212e66232
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_15
+      rect:
+        serializedVersion: 2
+        x: 11295
+        y: 1034
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f1d71d41fae9e438927e06501583d7
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e67fb6e47374514f902e3030f9d541c
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_17
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a721e4b2880dd74ea3f1a0d59e3e90c
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_18
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8de77f280c1b9143936325ffdbf580f
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_19
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754f3f9ab4e2b984ab5815abfeb463f0
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_20
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea902348d7e7a048b019c574f5c5c39
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_21
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568999b8880b0f847aefbecac99b458b
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_22
+      rect:
+        serializedVersion: 2
+        x: 4518
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197169114af514b4498759dab3046328
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_23
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15b108c0ad4e344dbe5cf1316996e3d
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_24
+      rect:
+        serializedVersion: 2
+        x: 6024
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0283d67c1120543985c672b13a7250
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_25
+      rect:
+        serializedVersion: 2
+        x: 6777
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4936743cd223b419e0379af520426e
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_26
+      rect:
+        serializedVersion: 2
+        x: 7530
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51076b48270ec54db71a8944b207d82
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_27
+      rect:
+        serializedVersion: 2
+        x: 8283
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5b50cc17d3d2f48b17f0cb822291f8
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_28
+      rect:
+        serializedVersion: 2
+        x: 9036
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92799a9fc89fb094a9842bb066cba44a
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_29
+      rect:
+        serializedVersion: 2
+        x: 9789
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e25bdf08eb9f1944b488a2a4e899d47
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_30
+      rect:
+        serializedVersion: 2
+        x: 10542
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69f29297b92074429b37774e6a36a9c
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_31
+      rect:
+        serializedVersion: 2
+        x: 11295
+        y: 517
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f5ec6b4bb3cd44f92b0bc5b9d0033d
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab43f85b7b72dcd4e89fc6ef32ac6a5b
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_33
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaa57df583dbc74b8625b3f1d028155
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_34
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f0e109652607d4796bff361767c070
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_35
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab08968701c28a438485a014001b79b
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_36
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5077f244ab9961458ae735f25d0b04f
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_37
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ac794f5e08bf54abd67a7bb9253252
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_38
+      rect:
+        serializedVersion: 2
+        x: 4518
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a76b1e6972fd4749892df8bcfba626c
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_39
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21eb7f8577c7e24e9b9b017877de60e
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_40
+      rect:
+        serializedVersion: 2
+        x: 6024
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69408c7cfa758e04fb7ceefdac7d9e8e
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_41
+      rect:
+        serializedVersion: 2
+        x: 6777
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d040126c761d44a5b2ce49592c892
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_42
+      rect:
+        serializedVersion: 2
+        x: 7530
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d01ce59ddb9744a81f9a1b1fd6a624
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_43
+      rect:
+        serializedVersion: 2
+        x: 8283
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8ead3f1ed5d9e418684e9bbf76f4fe
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_44
+      rect:
+        serializedVersion: 2
+        x: 9036
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6930972ada1074d8e9a76e3db59aa8
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_45
+      rect:
+        serializedVersion: 2
+        x: 9789
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068a895cd844585498a7bdcff61fb454
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_46
+      rect:
+        serializedVersion: 2
+        x: 10542
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7575dd88e57af05439f24eef6af09870
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BakaAn_47
+      rect:
+        serializedVersion: 2
+        x: 11295
+        y: 0
+        width: 753
+        height: 517
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0d437161d70c743815a5d34a9b9b3f
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 871a0ab91b8eb73428411e83303c3af3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

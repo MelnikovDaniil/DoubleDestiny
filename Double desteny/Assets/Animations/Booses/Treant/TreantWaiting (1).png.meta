@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 8433ec8a735503041bfe835367ca95a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TreantWaiting (1)_0
+  - first:
+      213: 21300002
+    second: TreantWaiting (1)_1
+  - first:
+      213: 21300004
+    second: TreantWaiting (1)_2
+  - first:
+      213: 21300006
+    second: TreantWaiting (1)_3
+  - first:
+      213: 21300008
+    second: TreantWaiting (1)_4
+  - first:
+      213: 21300010
+    second: TreantWaiting (1)_5
+  - first:
+      213: 21300012
+    second: TreantWaiting (1)_6
+  - first:
+      213: 21300014
+    second: TreantWaiting (1)_7
+  - first:
+      213: 21300016
+    second: TreantWaiting (1)_8
+  - first:
+      213: 21300018
+    second: TreantWaiting (1)_9
+  - first:
+      213: 21300020
+    second: TreantWaiting (1)_10
+  - first:
+      213: 21300022
+    second: TreantWaiting (1)_11
+  - first:
+      213: 21300024
+    second: TreantWaiting (1)_12
+  - first:
+      213: 21300026
+    second: TreantWaiting (1)_13
+  - first:
+      213: 21300028
+    second: TreantWaiting (1)_14
+  - first:
+      213: 21300030
+    second: TreantWaiting (1)_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TreantWaiting (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 892
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f3514ce0f0ef34ab03b2cdb300e44f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_1
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 892
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaa82841d6a8bc47a927d39d75cb1cf
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 892
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee20c6c6d023b37489331b88cd475a21
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_3
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 892
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2723c593d63428478938c7f56b0c3a3
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_4
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 892
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1594005c532ed439e369faf7e196bf
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_5
+      rect:
+        serializedVersion: 2
+        x: 4315
+        y: 892
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c63031e94767043bdb497740a2ac50
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_6
+      rect:
+        serializedVersion: 2
+        x: 5178
+        y: 892
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88e77aac373d9642a201c24917c328d
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_7
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 892
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3921722e955024469834e4796aa7638
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec24fe21a21890845881aa5b7035a355
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_9
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 0
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6363cd76cc0ae5f4ebbc91eb22552717
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 0
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdd2d94001e3f644aa8b5baa0d62ec8
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_11
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 0
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a32a115fcf49d042a4494b338c18629
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_12
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 0
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cf737149bf78244aa3d4af61c5d308
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_13
+      rect:
+        serializedVersion: 2
+        x: 4315
+        y: 0
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d2160272465734b9d6b30de95395fe
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_14
+      rect:
+        serializedVersion: 2
+        x: 5178
+        y: 0
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e78a446daa7b488ddef3277b80373
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantWaiting (1)_15
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 0
+        width: 863
+        height: 892
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1898ea9635e24dbe9cfb7b481b522
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 25be2a216cc0af941b2e22d176c3538c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1267 @@
+fileFormatVersion: 2
+guid: 85d934b15127fdf4f93114463f48d74f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: BArd_0
+  - first:
+      213: 21300002
+    second: BArd_1
+  - first:
+      213: 21300004
+    second: BArd_2
+  - first:
+      213: 21300006
+    second: BArd_3
+  - first:
+      213: 21300008
+    second: BArd_4
+  - first:
+      213: 21300010
+    second: BArd_5
+  - first:
+      213: 21300012
+    second: BArd_6
+  - first:
+      213: 21300014
+    second: BArd_7
+  - first:
+      213: 21300016
+    second: BArd_8
+  - first:
+      213: 21300018
+    second: BArd_9
+  - first:
+      213: 21300020
+    second: BArd_10
+  - first:
+      213: 21300022
+    second: BArd_11
+  - first:
+      213: 21300024
+    second: BArd_12
+  - first:
+      213: 21300026
+    second: BArd_13
+  - first:
+      213: 21300028
+    second: BArd_14
+  - first:
+      213: 21300030
+    second: BArd_15
+  - first:
+      213: 21300032
+    second: BArd_16
+  - first:
+      213: 21300034
+    second: BArd_17
+  - first:
+      213: 21300036
+    second: BArd_18
+  - first:
+      213: 21300038
+    second: BArd_19
+  - first:
+      213: 21300040
+    second: BArd_20
+  - first:
+      213: 21300042
+    second: BArd_21
+  - first:
+      213: 21300044
+    second: BArd_22
+  - first:
+      213: 21300046
+    second: BArd_23
+  - first:
+      213: 21300048
+    second: BArd_24
+  - first:
+      213: 21300050
+    second: BArd_25
+  - first:
+      213: 21300052
+    second: BArd_26
+  - first:
+      213: 21300054
+    second: BArd_27
+  - first:
+      213: 21300056
+    second: BArd_28
+  - first:
+      213: 21300058
+    second: BArd_29
+  - first:
+      213: 21300060
+    second: BArd_30
+  - first:
+      213: 21300062
+    second: BArd_31
+  - first:
+      213: 21300064
+    second: BArd_32
+  - first:
+      213: 21300066
+    second: BArd_33
+  - first:
+      213: 21300068
+    second: BArd_34
+  - first:
+      213: 21300070
+    second: BArd_35
+  - first:
+      213: 21300072
+    second: BArd_36
+  - first:
+      213: 21300074
+    second: BArd_37
+  - first:
+      213: 21300076
+    second: BArd_38
+  - first:
+      213: 21300078
+    second: BArd_39
+  - first:
+      213: 21300080
+    second: BArd_40
+  - first:
+      213: 21300082
+    second: BArd_41
+  - first:
+      213: 21300084
+    second: BArd_42
+  - first:
+      213: 21300086
+    second: BArd_43
+  - first:
+      213: 21300088
+    second: BArd_44
+  - first:
+      213: 21300090
+    second: BArd_45
+  - first:
+      213: 21300092
+    second: BArd_46
+  - first:
+      213: 21300094
+    second: BArd_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BArd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f847d7b51f240438565334265a25b0
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306ec6fdf830a174bbf4503b32ca20f4
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_2
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ffc6749e8d6b140be90c598a50ff14
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_3
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebab2ddd4999fcc4f804b7b05e3a9d92
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_4
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c2770e494c46419e4a98b784930ee
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_5
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0db060e5264a22478b5167577f52454
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_6
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181a0eca75c04044489074d4dbdc0151
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_7
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f7f08212010b4b9b1d698bd44ec2c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_8
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e314984d6cc234798c4d7fe7032de1
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_9
+      rect:
+        serializedVersion: 2
+        x: 5508
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74af2eec9f545e54e9ad61ab2f06d185
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_10
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921d6f769b623924d8de960a6c60ddf9
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_11
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec596dec62a240439da058b04d38bce
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_12
+      rect:
+        serializedVersion: 2
+        x: 7344
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8bea1829e23ff4e904577fef43fe18
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_13
+      rect:
+        serializedVersion: 2
+        x: 7956
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c8f871e9fba8c428168faf6f2917cb
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_14
+      rect:
+        serializedVersion: 2
+        x: 8568
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1fbf90f64db9b4a8746f5df0ad824a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_15
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 1190
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa1e4721fd8b2f448fa289e5f81866c
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69099803e0dac884caa9f9182e438777
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba91a4bdc78bd1146af0ee7d3ce9e970
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_18
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b23b028e255824fad58a8b44e9bf5a
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_19
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d23aed69a39c84ca18d09e5530ce0f
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_20
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6d050804908cb4e91c6f25c4b6cf83
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_21
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d50a33ca59e946bf2814d1f6d0315
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_22
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1ef1e771895fc46b6cd72b4a089398
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_23
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5383a50359973ea47b77602cda5e397f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_24
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7cb5034207daf478a3bdceffc4f830
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_25
+      rect:
+        serializedVersion: 2
+        x: 5508
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a275b3224052b4d9e96e32f822808e
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_26
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1c497fa43ac7f4f906d77536d194b1
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_27
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4fd2bfc1fe8ae4a92c701db605ce01
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_28
+      rect:
+        serializedVersion: 2
+        x: 7344
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f7eaf81d2155b4b987bc3bda54fbef
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_29
+      rect:
+        serializedVersion: 2
+        x: 7956
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa11c5b09f39df429fe8891b7be132c
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_30
+      rect:
+        serializedVersion: 2
+        x: 8568
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5cfb9f7f631d141983347ce786ad84
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_31
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 595
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0733a7352212743a7996e6c0e7e48a
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a38031d02b74b047a99d50b49c6554b
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_33
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d9b6bab3df08d40a49f53a491d97b0
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_34
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460ffba820a569644837473bea768e78
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_35
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acc00aa8c5fea745bf1b7d2556e4517
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_36
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661887bedb45f054a8805a9d710a3a6d
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_37
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e45e9b292775640a4de10250071e3f
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_38
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd200f314beb6247b9f81a904794883
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_39
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d460f2cd7fae6642bc703f98ca18c06
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_40
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caf68aa2a8b7f04b92f5437d2ce7d11
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_41
+      rect:
+        serializedVersion: 2
+        x: 5508
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ab7b2bfdb8a144086fb12360edac7b
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_42
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d222d2b3a29ba4293c704b5243877b
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_43
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d09380a64ebd3c4ba108fcbccad3569
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_44
+      rect:
+        serializedVersion: 2
+        x: 7344
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85b3e6968e6de44a8617790a1f789eb
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_45
+      rect:
+        serializedVersion: 2
+        x: 7956
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db43456ef79b344a1df915ce458673
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_46
+      rect:
+        serializedVersion: 2
+        x: 8568
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6285c1fd0b75445a2c948a8b9e51dc
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BArd_47
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 0
+        width: 612
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae1fdac124763047ae15c88b97a8b3d
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a5059d8f4f5beb94fa4bf1b315ff5e9d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

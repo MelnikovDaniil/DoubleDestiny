@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 44cc070525ca38f4e9c929c32a4d0dfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TreantFustPunch_0
+  - first:
+      213: 21300002
+    second: TreantFustPunch_1
+  - first:
+      213: 21300004
+    second: TreantFustPunch_2
+  - first:
+      213: 21300006
+    second: TreantFustPunch_3
+  - first:
+      213: 21300008
+    second: TreantFustPunch_4
+  - first:
+      213: 21300010
+    second: TreantFustPunch_5
+  - first:
+      213: 21300012
+    second: TreantFustPunch_6
+  - first:
+      213: 21300014
+    second: TreantFustPunch_7
+  - first:
+      213: 21300016
+    second: TreantFustPunch_8
+  - first:
+      213: 21300018
+    second: TreantFustPunch_9
+  - first:
+      213: 21300020
+    second: TreantFustPunch_10
+  - first:
+      213: 21300022
+    second: TreantFustPunch_11
+  - first:
+      213: 21300024
+    second: TreantFustPunch_12
+  - first:
+      213: 21300026
+    second: TreantFustPunch_13
+  - first:
+      213: 21300028
+    second: TreantFustPunch_14
+  - first:
+      213: 21300030
+    second: TreantFustPunch_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TreantFustPunch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1058
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5fcb7165d34044ca3d7f30ff38061a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_1
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1058
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c829f994df402438a90a1e1b3d208e
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_2
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 1058
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39cbecfd602b8b418bec11968edc1be
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_3
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 1058
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c6e0a9f460f01418fb56eca1fdb1f7
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_4
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 1058
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a883c5261047a047a9d7588769e0549
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_5
+      rect:
+        serializedVersion: 2
+        x: 5685
+        y: 1058
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f228b74a9eab2cd46b21002897d2c8e4
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_6
+      rect:
+        serializedVersion: 2
+        x: 6822
+        y: 1058
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dba2b0d1dfb6854e829ace79576ab78
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_7
+      rect:
+        serializedVersion: 2
+        x: 7959
+        y: 1058
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a49f284f6aff248b055c1d2abb0a1a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104a77b3c4bf351498c896b0a6d16c57
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_9
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 0
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0cca3562fad774c933334d00d18830
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_10
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 0
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d92576f21aa6704494801e92bf3608e
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_11
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 0
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c092aa777a2d53478773ec8d45bf345
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_12
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 0
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418f8d6889cb3ff4fab5590c6ff9e4f3
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_13
+      rect:
+        serializedVersion: 2
+        x: 5685
+        y: 0
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ad48bf11b90734f9f71d44171b849c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_14
+      rect:
+        serializedVersion: 2
+        x: 6822
+        y: 0
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09018c41747878d46b436e372a01d788
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TreantFustPunch_15
+      rect:
+        serializedVersion: 2
+        x: 7959
+        y: 0
+        width: 1137
+        height: 1058
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0a57a7febe43347b764c79666abba2
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 868ebd6b81925e14182ef92bc0a56cf2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
